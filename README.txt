@@ -1,8 +1,8 @@
 
 TITLE: 
-Wedding Free HTML5 Bootstrap Template for Wedding Website
+Wedding RATNA && FAREL
 AUTHOR:
-DESIGNED & DEVELOPED by QBOOTSTRAP.COM
+YOVIE AGGATHA PUTRA
 
 Website: 		http://qbootstrap.com/
 Twitter: 		http://twitter.com/Q_bootstrap
