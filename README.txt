@@ -4,9 +4,6 @@ Wedding RATNA && FAREL
 AUTHOR:
 YOVIE AGGATHA PUTRA
 
-Website: 		http://qbootstrap.com/
-Twitter: 		http://twitter.com/Q_bootstrap
-Facebook: 		https://www.facebook.com/Qbootstrap
 
 CREDITS:
 
